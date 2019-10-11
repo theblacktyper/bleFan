@@ -1,0 +1,12 @@
+This is a project in which a room fan (regular US outlet plug) is being controlled based on
+the ambient temperature, which is measured by a temperature sensor.
+Microchip PIC16F18875 microcontroller is used in this project.
+In addition, Bluetooth Low Energy (BLE) communication is added to this project so that
+live temperature reading can be pushed to mobile device connected via BLE.
+
+Contents of this project:
+
+- Bill of Material
+- Block Diagram
+- Firmware
+- Demonstration Video
